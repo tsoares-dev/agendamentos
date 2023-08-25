@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>child</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <short_description>Contact support to make a request, or report a problem</short_description>
+        <size>md</size>
+        <sp_column display_value="3">cf7d18de9738311044eb34100153afea</sp_column>
+        <sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 16:58:46</sys_created_on>
+        <sys_id>477d18de9738311044eb34100153afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Help</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_update_name>sp_instance_link_477d18de9738311044eb34100153afed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 16:58:46</sys_updated_on>
+        <title>Get Help</title>
+        <type>sc_category</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=477d18de9738311044eb34100153afed"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>477d18de9738311044eb34100153afed</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 16:58:46</sys_created_on>
+        <sys_id>8f7d18de9738311044eb34100153afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 16:58:46</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value>Contact support to make a request, or report a problem</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>477d18de9738311044eb34100153afed</documentkey>
+        <fieldname>title</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 16:58:46</sys_created_on>
+        <sys_id>437d18de9738311044eb34100153aff0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 16:58:46</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value>Get Help</value>
+    </sys_translated_text>
+</record_update>

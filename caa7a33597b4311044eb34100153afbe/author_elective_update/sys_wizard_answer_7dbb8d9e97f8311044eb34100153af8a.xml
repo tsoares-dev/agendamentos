@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Agendamento</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Agendamento</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d1998c87243021108c8bc6863d3fade0</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:20:46</sys_created_on>
+        <sys_id>7dbb8d9e97f8311044eb34100153af8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agendamento</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_update_name>sys_wizard_answer_7dbb8d9e97f8311044eb34100153af8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:20:46</sys_updated_on>
+        <table/>
+        <target_url>x_752986_portal_0_agendamento.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</application>
+        <file_path/>
+        <instance_id>07eee663db21e9984d2bac44d496191a</instance_id>
+        <instance_name>dev166135</instance_name>
+        <name>sys_wizard_answer_7dbb8d9e97f8311044eb34100153af8a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Agendamento</answer><button_label/><dependent_value/><element/><name>Agendamento</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">d1998c87243021108c8bc6863d3fade0</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 20:20:46</sys_created_on><sys_id>7dbb8d9e97f8311044eb34100153af8a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Agendamento</sys_name><sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package><sys_policy/><sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope><sys_update_name>sys_wizard_answer_7dbb8d9e97f8311044eb34100153af8a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 20:20:46</sys_updated_on><table/><target_url>x_752986_portal_0_agendamento.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1621816737</payload_hash>
+        <record_name>Agendamento</record_name>
+        <reverted_from/>
+        <source>0aa7a33597b4311044eb34100153afc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:20:46</sys_created_on>
+        <sys_id>71bb8d9e97f8311044eb34100153af8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a240e85640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:20:46</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>b5bb8d9e8bf831109f9598713c42ba8c</update_guid>
+        <update_guid_history>b5bb8d9e8bf831109f9598713c42ba8c:-1621816737</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:49:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>141566fe1252405899764da731134c91</sys_id>
+        <sys_metadata>7dbb8d9e97f8311044eb34100153af8a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agendamento</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_parent display_value="Task">d1998c87243021108c8bc6863d3fade0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_scope_delete display_value="">3fc8e5337c0242c8b8224dd8472af321</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_7dbb8d9e97f8311044eb34100153af8a</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_7dbb8d9e97f8311044eb34100153af8a">71bb8d9e97f8311044eb34100153af8d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:49:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

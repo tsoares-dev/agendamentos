@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Agendamento">df179dda973c311044eb34100153af05</sc_cat_item>
+        <sc_category display_value="Agenda de Serviços">3935995a973c311044eb34100153afec</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 21:15:19</sys_created_on>
+        <sys_id>8538515e973c311044eb34100153affc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agenda de Serviços.Agendamento</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_update_name>sc_cat_item_category_8538515e973c311044eb34100153affc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 21:15:19</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>@media (max-width: 767px) {
+  .wrapper-xl {
+    padding: 25px 15px !important;
+  }
+  .text-4x {
+    font-size: 3em;
+  }
+}</css>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">35929a2e97fc711044eb34100153af44</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 20:08:53</sys_created_on>
+        <sys_id>39929a2e97fc711044eb34100153af46</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Bem Vindo | Login</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_update_name>sp_instance_39929a2e97fc711044eb34100153af46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 20:48:30</sys_updated_on>
+        <title>Bem Vindo | Login</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div class=\"wrapper-xl welcome\">\r\n<h2 class=\"text-white text-4x h1\" role=\"presentation\">${Bem vindo ao Portal de Agendamentos}</h2>\r\n<h3 class=\"text-white\" role=\"presentation\">${Fa&ccedil;a login para fazer pedidos, obter ajuda ou relatar um problema}</h3>\r\n</div>",
+		"displayValue": "<div class=\"wrapper-xl welcome\">\n<h2 class=\"text-white text-4x h1\" role=\"presentation\">${Bem vindo ao Portal de Agendamentos}</h2>\n<h3 class=\"text-white\" role=\"presentation\">${Fa&ccedil;a login para fazer pedidos, obter ajuda ou relatar um problema}</h3>\n</div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=39929a2e97fc711044eb34100153af46"/>
+</record_update>

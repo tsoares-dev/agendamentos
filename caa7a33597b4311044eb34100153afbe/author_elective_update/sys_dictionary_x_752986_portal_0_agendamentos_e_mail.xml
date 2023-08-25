@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="e_mail" table="x_752986_portal_0_agendamentos">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>E-mail</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>e_mail</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <name>x_752986_portal_0_agendamentos</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="core_company">core_company</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 19:27:38</sys_created_on>
+        <sys_id>eb8f3c5297f8311044eb34100153af95</sys_id>
+        <sys_name>E-mail</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_update_name>sys_dictionary_x_752986_portal_0_agendamentos_e_mail</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 19:27:39</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</application>
+        <file_path/>
+        <instance_id>07eee663db21e9984d2bac44d496191a</instance_id>
+        <instance_name>dev166135</instance_name>
+        <name>sys_dictionary_x_752986_portal_0_agendamentos_e_mail</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="e_mail" table="x_752986_portal_0_agendamentos"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>E-mail</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>e_mail</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>x_752986_portal_0_agendamentos</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="core_company">core_company</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 19:27:38</sys_created_on><sys_id>eb8f3c5297f8311044eb34100153af95</sys_id><sys_name>E-mail</sys_name><sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package><sys_policy/><sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope><sys_update_name>sys_dictionary_x_752986_portal_0_agendamentos_e_mail</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 19:27:39</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1052697514</payload_hash>
+        <record_name>Agendamentos.E-mail</record_name>
+        <reverted_from/>
+        <source>0aa7a33597b4311044eb34100153afc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 19:27:39</sys_created_on>
+        <sys_id>cc9f7c5297f8311044eb34100153af33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a23dde5d00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 19:27:39</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>c49f7c52c5f83110120bd11ec3510633</update_guid>
+        <update_guid_history>c49f7c52c5f83110120bd11ec3510633:-1052697514,338f7c52cff831101461d9be05706408:-991258237</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:17:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>212608f594fe41a186b8026fefde1dc9</sys_id>
+        <sys_metadata>eb8f3c5297f8311044eb34100153af95</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>E-mail</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_parent display_value="">cc082b3597b4311044eb34100153af29</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_scope_delete display_value="">3fc8e5337c0242c8b8224dd8472af321</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_752986_portal_0_agendamentos_e_mail</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_752986_portal_0_agendamentos_e_mail">cc9f7c5297f8311044eb34100153af33</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:17:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

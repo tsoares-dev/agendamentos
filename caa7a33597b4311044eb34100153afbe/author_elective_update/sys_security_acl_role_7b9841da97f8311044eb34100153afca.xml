@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:07:14</sys_created_on>
+        <sys_id>7b9841da97f8311044eb34100153afca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_752986_portal_0_agendamento.x_752986_portal_0.admin</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_security_acl display_value="x_752986_portal_0_agendamento">2b9841da97f8311044eb34100153afc7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7b9841da97f8311044eb34100153afca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:07:14</sys_updated_on>
+        <sys_user_role display_value="x_752986_portal_0.admin" name="x_752986_portal_0.admin">c6a7a33597b4311044eb34100153afc5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</application>
+        <file_path/>
+        <instance_id>07eee663db21e9984d2bac44d496191a</instance_id>
+        <instance_name>dev166135</instance_name>
+        <name>sys_security_acl_role_7b9841da97f8311044eb34100153afca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 20:07:14</sys_created_on><sys_id>7b9841da97f8311044eb34100153afca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_752986_portal_0_agendamento.x_752986_portal_0.admin</sys_name><sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package><sys_policy/><sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope><sys_security_acl display_value="x_752986_portal_0_agendamento">2b9841da97f8311044eb34100153afc7</sys_security_acl><sys_update_name>sys_security_acl_role_7b9841da97f8311044eb34100153afca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 20:07:14</sys_updated_on><sys_user_role display_value="x_752986_portal_0.admin" name="x_752986_portal_0.admin">c6a7a33597b4311044eb34100153afc5</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1808827661</payload_hash>
+        <record_name>x_752986_portal_0_agendamento.x_752986_portal_0.admin</record_name>
+        <reverted_from/>
+        <source>0aa7a33597b4311044eb34100153afc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:07:14</sys_created_on>
+        <sys_id>f39841da97f8311044eb34100153afcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a240222120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:07:14</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>3b9841da19f83110e8c2bf80cd7ed2cc</update_guid>
+        <update_guid_history>3b9841da19f83110e8c2bf80cd7ed2cc:1808827661</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_752986_portal_0_agendamento.x_752986_portal_0.admin">598b899e97f8311044eb34100153af28</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:19:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0a580c3c30a2478e8867adefd5d70d69</sys_id>
+        <sys_metadata>7b9841da97f8311044eb34100153afca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_752986_portal_0_agendamento.x_752986_portal_0.admin</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_parent display_value="">2b9841da97f8311044eb34100153afc7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_scope_delete display_value="">3fc8e5337c0242c8b8224dd8472af321</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7b9841da97f8311044eb34100153afca</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7b9841da97f8311044eb34100153afca">f39841da97f8311044eb34100153afcd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:19:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

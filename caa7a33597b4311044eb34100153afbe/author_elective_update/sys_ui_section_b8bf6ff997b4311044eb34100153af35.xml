@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="b8bf6ff997b4311044eb34100153af35" sys_domain="global" table="x_752986_portal_0_agendamentos" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 19:43:16</sys_created_on>
+            <sys_id>7823895697f8311044eb34100153aff0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 19:43:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_de_inicio</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 19:43:16</sys_created_on>
+            <sys_id>7023895697f8311044eb34100153aff1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 19:43:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_de_termino</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 19:43:16</sys_created_on>
+            <sys_id>7423895697f8311044eb34100153aff1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 19:43:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cliente</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 19:43:16</sys_created_on>
+            <sys_id>7823895697f8311044eb34100153aff1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 19:43:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_mail</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 19:43:16</sys_created_on>
+            <sys_id>7c23895697f8311044eb34100153aff1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 19:43:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>telefone</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 19:43:16</sys_created_on>
+            <sys_id>7023895697f8311044eb34100153aff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 19:43:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>observacao_do_cliente</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 19:43:16</sys_created_on>
+            <sys_id>7423895697f8311044eb34100153aff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 19:43:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>servico</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-23 19:43:16</sys_created_on>
+            <sys_id>7823895697f8311044eb34100153aff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-23 19:43:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_752986_portal_0_agendamentos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-22 19:00:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8bf6ff997b4311044eb34100153af35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_752986_portal_0_agendamentos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+            <sys_update_name>sys_ui_section_b8bf6ff997b4311044eb34100153af35</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-22 19:00:16</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</application>
+        <file_path/>
+        <instance_id>07eee663db21e9984d2bac44d496191a</instance_id>
+        <instance_name>dev166135</instance_name>
+        <name>sys_ui_section_b8bf6ff997b4311044eb34100153af35</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b8bf6ff997b4311044eb34100153af35" sys_domain="global" table="x_752986_portal_0_agendamentos" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 19:43:16</sys_created_on><sys_id>7823895697f8311044eb34100153aff0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 19:43:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>data_de_inicio</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 19:43:16</sys_created_on><sys_id>7023895697f8311044eb34100153aff1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 19:43:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>data_de_termino</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 19:43:16</sys_created_on><sys_id>7423895697f8311044eb34100153aff1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 19:43:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cliente</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 19:43:16</sys_created_on><sys_id>7823895697f8311044eb34100153aff1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 19:43:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>e_mail</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 19:43:16</sys_created_on><sys_id>7c23895697f8311044eb34100153aff1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 19:43:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>telefone</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 19:43:16</sys_created_on><sys_id>7023895697f8311044eb34100153aff2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 19:43:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>observacao_do_cliente</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 19:43:16</sys_created_on><sys_id>7423895697f8311044eb34100153aff2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 19:43:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>servico</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-23 19:43:16</sys_created_on><sys_id>7823895697f8311044eb34100153aff2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_752986_portal_0_agendamentos" sys_domain="global" view="Default view">b8bf6ff997b4311044eb34100153af35</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-23 19:43:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_752986_portal_0_agendamentos</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-22 19:00:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b8bf6ff997b4311044eb34100153af35</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_752986_portal_0_agendamentos</sys_name><sys_overrides/><sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package><sys_policy/><sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope><sys_update_name>sys_ui_section_b8bf6ff997b4311044eb34100153af35</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-22 19:00:16</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-2062467281</payload_hash>
+        <record_name>Agendamentos</record_name>
+        <reverted_from/>
+        <source>0aa7a33597b4311044eb34100153afc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 19:43:16</sys_created_on>
+        <sys_id>fc23895697f8311044eb34100153aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a23ec33ba0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 19:43:16</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b4238956c8f83110dc5bb0fc690654f4</update_guid>
+        <update_guid_history>b4238956c8f83110dc5bb0fc690654f4:-2062467281,c09f7c52e1f831100396f994a9c5a86f:350463860,456db8de93b831104cb5af91660d9f79:-1456818672,81bf6ff9e3b431100c6ada9ccef6d154:-1775231250,c1bf6ff9ebb43110dcdca2b102c2a052:1858430529</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 20:17:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>90f3b61caa5449b581733db0c278e299</sys_id>
+        <sys_metadata>b8bf6ff997b4311044eb34100153af35</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_752986_portal_0_agendamentos</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_parent display_value="">cc082b3597b4311044eb34100153af29</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_scope_delete display_value="">3fc8e5337c0242c8b8224dd8472af321</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b8bf6ff997b4311044eb34100153af35</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b8bf6ff997b4311044eb34100153af35">fc23895697f8311044eb34100153aff4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 20:17:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

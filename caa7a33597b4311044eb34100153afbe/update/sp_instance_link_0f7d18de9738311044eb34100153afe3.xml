@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>car</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>2</order>
+        <roles/>
+        <sc_cat_item display_value="Solicitação de locação de veículo">57a5a71697f6211044eb34100153afc4</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">7e7d18de9738311044eb34100153afc1</sp_column>
+        <sp_page display_value="user_profile">edcbce64d710120023c84f80de610305</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 16:58:46</sys_created_on>
+        <sys_id>0f7d18de9738311044eb34100153afe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicite um veículo para locação</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_update_name>sp_instance_link_0f7d18de9738311044eb34100153afe3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 16:58:46</sys_updated_on>
+        <title>Solicite um veículo para locação</title>
+        <type>url</type>
+        <url>https://dev166135.service-now.com/sp?id=sc_cat_item&amp;sys_id=7142265697f2211044eb34100153afd7&amp;sysparm_category=109f0438c6112276003ae8ac13e7009d</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=0f7d18de9738311044eb34100153afe3"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>0f7d18de9738311044eb34100153afe3</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 16:58:46</sys_created_on>
+        <sys_id>477d18de9738311044eb34100153afe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 16:58:46</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>0f7d18de9738311044eb34100153afe3</documentkey>
+        <fieldname>title</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 16:58:46</sys_created_on>
+        <sys_id>0f7d18de9738311044eb34100153afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 16:58:46</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value>Solicite um veículo para locação</value>
+    </sys_translated_text>
+</record_update>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_752986_portal_0_servicos" version="2" view="Mobile">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_752986_portal_0_servicos" element="NULL" name="x_752986_portal_0_servicos" parent="NULL" relationship="NULL" sys_domain="global" view="44e8c043243021108c8bc6863d3fad9a">60360d2297f8711044eb34100153afba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-24 14:35:07</sys_created_on>
+            <sys_id>20360d2297f8711044eb34100153afbb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-24 14:35:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>nome</element>
+            <list_id display_value="x_752986_portal_0_servicos" element="NULL" name="x_752986_portal_0_servicos" parent="NULL" relationship="NULL" sys_domain="global" view="44e8c043243021108c8bc6863d3fad9a">60360d2297f8711044eb34100153afba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-24 14:35:07</sys_created_on>
+            <sys_id>a0360d2297f8711044eb34100153afbb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-24 14:35:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>remoto</element>
+            <list_id display_value="x_752986_portal_0_servicos" element="NULL" name="x_752986_portal_0_servicos" parent="NULL" relationship="NULL" sys_domain="global" view="44e8c043243021108c8bc6863d3fad9a">60360d2297f8711044eb34100153afba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-24 14:35:07</sys_created_on>
+            <sys_id>24360d2297f8711044eb34100153afbb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-24 14:35:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>tipo_de_servico</element>
+            <list_id display_value="x_752986_portal_0_servicos" element="NULL" name="x_752986_portal_0_servicos" parent="NULL" relationship="NULL" sys_domain="global" view="44e8c043243021108c8bc6863d3fad9a">60360d2297f8711044eb34100153afba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-24 14:35:07</sys_created_on>
+            <sys_id>a4360d2297f8711044eb34100153afbb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-24 14:35:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_752986_portal_0_servicos</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-24 14:35:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60360d2297f8711044eb34100153afba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_752986_portal_0_servicos</sys_name>
+            <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+            <sys_update_name>sys_ui_list_x_752986_portal_0_servicos_Mobile</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-24 14:35:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="Mobile">44e8c043243021108c8bc6863d3fad9a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

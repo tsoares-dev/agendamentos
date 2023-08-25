@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>index_texte</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 17:02:14</sys_created_on>
+        <sys_id>453e54129778311044eb34100153afc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>index_texte</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_update_name>sp_page_453e54129778311044eb34100153afc2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 17:02:14</sys_updated_on>
+        <title>index.texte</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=453e54129778311044eb34100153afc2"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>453e54129778311044eb34100153afc2</documentkey>
+        <fieldname>dynamic_title_structure</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 17:02:14</sys_created_on>
+        <sys_id>3d4ed0de9738311044eb34100153af70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 17:02:14</sys_updated_on>
+        <tablename>sp_page</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>453e54129778311044eb34100153afc2</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 17:02:14</sys_created_on>
+        <sys_id>394ed0de9738311044eb34100153af6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 17:02:14</sys_updated_on>
+        <tablename>sp_page</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>453e54129778311044eb34100153afc2</documentkey>
+        <fieldname>title</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 17:02:14</sys_created_on>
+        <sys_id>794ed0de9738311044eb34100153af6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 17:02:14</sys_updated_on>
+        <tablename>sp_page</tablename>
+        <value>index.texte</value>
+    </sys_translated_text>
+</record_update>

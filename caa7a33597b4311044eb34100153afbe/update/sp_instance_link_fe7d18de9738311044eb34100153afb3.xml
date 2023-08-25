@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>briefcase</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Nova versão de requisão de veículo para locação</short_description>
+        <size>md</size>
+        <sp_column display_value="1">3a7d18de9738311044eb34100153afb1</sp_column>
+        <sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 16:58:45</sys_created_on>
+        <sys_id>fe7d18de9738311044eb34100153afb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicite o seu veículo</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_update_name>sp_instance_link_fe7d18de9738311044eb34100153afb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 16:58:45</sys_updated_on>
+        <title>Solicite o seu veículo</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	},
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe7d18de9738311044eb34100153afb3"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>fe7d18de9738311044eb34100153afb3</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 16:58:45</sys_created_on>
+        <sys_id>ba7d18de9738311044eb34100153afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 16:58:45</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value>Nova versão de requisão de veículo para locação</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>fe7d18de9738311044eb34100153afb3</documentkey>
+        <fieldname>title</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 16:58:45</sys_created_on>
+        <sys_id>3e7d18de9738311044eb34100153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 16:58:45</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value>Solicite o seu veículo</value>
+    </sys_translated_text>
+</record_update>

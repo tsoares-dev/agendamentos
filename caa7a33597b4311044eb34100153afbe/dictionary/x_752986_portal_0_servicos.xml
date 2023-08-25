@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a0634d6e97b8711044eb34100153afcf" label="Serviços" max_length="40" name="x_752986_portal_0_servicos" type="collection">
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Será realizado de forma Remota?" max_length="40" name="remoto" type="boolean"/>
+        <element label="Tipo de Serviço" max_length="40" name="tipo_de_servico" type="string"/>
+    </element>
+</database>

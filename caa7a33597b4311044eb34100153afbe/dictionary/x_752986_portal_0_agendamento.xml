@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="52a21996973c311044eb34100153af93" extends="task" label="Agendamento" max_length="40" name="x_752986_portal_0_agendamento" type="collection">
+        <element label="Anexo" max_length="40" name="anexo" type="file_attachment"/>
+        <element label="Cliente" max_length="32" name="cliente" reference="core_company" type="reference"/>
+        <element label="Data de Início" max_length="40" name="data_de_inicio" type="glide_date_time"/>
+        <element label="Data do Término" max_length="40" name="data_do_termino" type="glide_date_time"/>
+        <element label="E-mail do cliente" max_length="40" name="e_mail_do_cliente" type="string"/>
+        <element label="E-mail do solicitante" max_length="40" name="e_mail_do_solicitante" type="string"/>
+        <element label="Nome do Serviço" max_length="40" name="nome_do_servico" type="string"/>
+        <element label="Notas" max_length="200" name="notas" type="string"/>
+        <element label="Observações do cliente" max_length="40" name="observacoes_do_cliente" type="string"/>
+        <element label="Serviço" max_length="32" name="servico" reference="x_752986_portal_0_servicos" type="reference"/>
+        <element label="Solicitante" max_length="32" name="solicitante" reference="sys_user" type="reference"/>
+        <element label="Telefone do Cliente" max_length="40" name="telefone_do_cliente" type="string"/>
+        <element label="Telefone do solicitante" max_length="40" name="telefone_do_solicitante" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>calendar</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>2</order>
+        <roles/>
+        <sc_cat_item display_value="Solicitação de locação de veículo">57a5a71697f6211044eb34100153afc4</sc_cat_item>
+        <sc_category display_value="Agenda de Serviços">3935995a973c311044eb34100153afec</sc_category>
+        <short_description>Consulte seus agendamentos de serviços</short_description>
+        <size>md</size>
+        <sp_column display_value="2">76d5e01a9778311044eb34100153af7a</sp_column>
+        <sp_page display_value="list">b574e51147132100ba13a5554ee4903e</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 17:35:20</sys_created_on>
+        <sys_id>f2d5e01a9778311044eb34100153af7f</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Agendamentos</sys_name>
+        <sys_package display_value="Portal de agendamentos" source="x_752986_portal_0">caa7a33597b4311044eb34100153afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal de agendamentos">caa7a33597b4311044eb34100153afbe</sys_scope>
+        <sys_update_name>sp_instance_link_f2d5e01a9778311044eb34100153af7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 15:31:56</sys_updated_on>
+        <title>Agendamentos</title>
+        <type>url</type>
+        <url>https://dev166135.service-now.com/x_752986_portal_0_agendamento_list.do</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=f2d5e01a9778311044eb34100153af7f"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f2d5e01a9778311044eb34100153af7f</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 18:01:40</sys_created_on>
+        <sys_id>eceb689a9778311044eb34100153af7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 18:01:40</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f2d5e01a9778311044eb34100153af7f</documentkey>
+        <fieldname>title</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 18:01:40</sys_created_on>
+        <sys_id>e4eb689a9778311044eb34100153af81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 18:01:40</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value>Agendamento de serviço</value>
+    </sys_translated_text>
+</record_update>
